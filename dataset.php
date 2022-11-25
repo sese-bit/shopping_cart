@@ -57,4 +57,5 @@
             'photo2'        => "product8B.jpg",
         )
     );
+    
 ?>
