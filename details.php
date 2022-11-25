@@ -11,8 +11,8 @@
         $_SESSION['totalQuantity'] += $_POST['txtQuantity'];
         header("location: confirm.php");
     }
-
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
